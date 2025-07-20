@@ -1,4 +1,5 @@
-## Hi there 👋
+[![mySkills](https://skillicons.dev/icons?i=python,aws,docker,linux,react&perline=3)](https://skillicons.dev)
+
 
 <!--
 **ejr1216/ejr1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
