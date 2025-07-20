@@ -1,5 +1,6 @@
 [![mySkills](https://skillicons.dev/icons?i=python,aws,docker,linux,react&perline=3)](https://skillicons.dev)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ejr1216=gruvbox&title=Stars,Followers,Commits,PRs,Issues,Repositories&rank=SSS,SS,S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **ejr1216/ejr1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
